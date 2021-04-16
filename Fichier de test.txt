@@ -1,0 +1,2 @@
+Ceci est un fichier de test pour faire des tests sur Git <= master
+on continue de tester mais sur une nouvelle branche <= develop
